@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:693282573179:android:6a429bef070b0e46974bde",
+        "mobilesdk_app_id": "1:API Key Here",
         "android_client_info": {
           "package_name": "com.cscormer.chatapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD9VsO2JlE5KCSSLiCglDGd1GWcjyNWKG4"
+          "current_key": "your API Key Here"
         }
       ],
       "services": {
